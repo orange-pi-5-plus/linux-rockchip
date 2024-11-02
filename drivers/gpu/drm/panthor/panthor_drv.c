@@ -3,6 +3,7 @@
 /* Copyright 2019 Linaro, Ltd., Rob Herring <robh@kernel.org> */
 /* Copyright 2019 Collabora ltd. */
 
+#include <linux/fs.h>
 #include <linux/list.h>
 #include <linux/module.h>
 #include <linux/of_platform.h>
